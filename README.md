@@ -1,10 +1,10 @@
 # Pepe Defender
 
-A fast-paced space shooter game with multiple levels, boss battles, and power-ups.
+A fast-paced side scrolling pepe shooter game with multiple levels, boss battles, and power-ups.
 
 ## Play Now
 
-Play the game directly in your browser: [Play Pepe Defender](https://XWAVEart.github.io/pepe-defender/)
+Play the game directly in your browser: [Play Pepe Defender](https://xwaveart.github.io/Pepe-Defender/)
 
 ## Game Features
 
